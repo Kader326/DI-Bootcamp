@@ -1,0 +1,141 @@
+.div2{
+	width: 250px;
+	height: 620px;
+padding-right: 600px;
+right:-5px;
+	margin-left: 300px;
+left:-5px;
+position: relative;
+margin-bottom: 0;
+padding-top: 0;
+border:1px solid black;
+font-weight: bold;
+bottom: 120px;
+      position: fixed;
+}
+.divise{
+	float: right; 
+	width: 50%;
+	margin-left: 50px;
+}
+body {
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+	overflow: hidden;
+
+	
+}
+.kde {
+	width: 380px;
+	height: 547px;
+	margin:7% auto;
+		background-color: rgba(0,0,0,0.1);
+	box-shadow: 0 0 17px #333;
+	border:1px solid black;
+	float: left; 
+	  bottom: 50px;
+      position: fixed;
+    margin-left: 40px;	
+}
+
+.container {
+	
+	width: 380px;
+	margin:7% auto;
+		background-color: rgba(0,0,0,0.1);
+	box-shadow: 0 0 17px #333;
+}
+.encad {
+	
+	width: 380px;
+	height: 550px;
+	margin:7% auto;
+		background-color: rgba(0,0,0,0.1);
+	box-shadow: 0 0 17px #333;
+	background-image: linear-gradient(black,violet);
+	float: right; 
+	 bottom: 50px;
+      position: fixed;
+    margin-left: 422px;
+}
+.kader{
+	 bottom: 95px;
+      position: fixed;
+}
+
+
+.header{
+	text-align: center;
+	padding-top: 75px;
+	background-image: white;
+
+}
+
+.header h1 {
+	color: #333;
+	font-size: 45px;
+	margin-bottom: 80px;
+}
+
+.main{
+	text-align: center;
+
+}
+.main input,button{
+	width: 300px;
+	height: 40px;
+	border:nome;
+	outline: none;
+	padding-left:border-box;
+	font-size: 15px;
+	color: violet;
+	margin-bottom:40px;
+	color: black;
+}
+
+
+.main button{
+	padding-left: 0;
+	background-color: violet;
+	letter-spacing: 1pw;
+	font-weight: bold;
+	margin-bottom: 70px;
+	color: white;
+}
+
+.main button:hover  {
+	box-shadow: 2px 2px5px #555;
+	background-color: ;
+}
+
+.main input:hover {
+	box-shadow: 2px 2px5px #555;
+	background-color: #ddd;
+}
+
+.main span{
+	position: relative;
+}
+
+.h1{
+	color: white;
+}
+.h6{
+	color: white;
+	font-family:Trebuchet MS;
+}
+.myButton {
+	background-color:#c745b8;
+	border-radius:39px;
+	border:2px solid white;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:15px 58px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #662866;
+	&:hover {
+	background-color:#5cbf2a;
+}
