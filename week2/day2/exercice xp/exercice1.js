@@ -3,11 +3,11 @@ let y = 2;
 function controle {
 				
 			    if(x < y){
-					alert("Le plus grand chiffre est : " +y);
+					alert("the biggest number is : " +y);
 				}
 				else (x > y){
-					alert("Le plus grand chiffre est : " +x);
+					alert("the biggest number is : " +x);
 				}
 				else if(x == y){
-					alert("Les chiffres sont égaux.");
+					alert("no biggest number.");
 				}
