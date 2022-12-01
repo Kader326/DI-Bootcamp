@@ -1,5 +1,5 @@
 let fruits = ["Banana", "Apples", "Oranges", "Blueberries"];
-let newfruits = myfruits.filter(function(f) { return f !== 'Banana' });
+let newfruits = fruits.filter(function(f) { return f !== 'Banana' });#possible d'utiliser splice et , pop 
 console.log(newfruits);
 var s = newfruits.sort(newfruits);
 console.log(s);
