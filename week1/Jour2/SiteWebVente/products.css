@@ -1,0 +1,43 @@
+.d1, .d2, .d3,.d4, .d5, .d6, .d7, .d8{
+    float: left;
+    width: 305px;
+    margin: 10px;
+    
+}
+
+.clear{
+    clear: both;
+}
+
+.d1{
+    background-image: url(a.png);
+    background-size: cover;
+    height: 380px;
+}
+
+.d2{
+    background-image: url(b.png);
+    background-size: cover;
+    height:380px
+}
+
+.d3{
+    background-image: url(c.png);
+    background-size: cover;
+    height: 380px;
+}
+
+.d4{
+    background-image: url(d.png);
+    background-size: cover;
+    height: 380px;
+}
+
+.d5, .d6, .d7,.d8{
+     height: 110px;
+}
+
+p{
+    text-align: center;
+}
+

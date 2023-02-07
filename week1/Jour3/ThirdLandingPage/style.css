@@ -1,0 +1,125 @@
+
+*{
+    margin: 0;
+}
+.d1{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+    margin-left: 240px;
+}
+
+.d4{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: #29278E;
+    margin-right: 30px;
+    margin-left: 240px;
+}
+
+.d2{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+}
+
+.d5{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: #29278E;
+    margin-right: 30px;
+}
+
+.d3{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+}
+
+.d6{
+    float: left;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+    background-color: #29278E;
+    margin-right: 30px;
+}
+
+.clear{
+    clear: both;
+}
+
+h2, .zagre{
+    text-align: center;
+    margin-top:30px ;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: white;
+    padding: 15px;
+}
+
+select{
+    border:2px solid blue;
+    color: blue;
+    
+}
+
+i{
+    color: blue;
+    
+}
+
+.e1 button{
+    border: 2px solid blue;
+    color: blue;
+    
+}
+
+.c2{
+    margin-left: 25px;
+}
+
+.c3,.fa-magnifying-glass{
+    margin-left: 150px;   
+}
+
+.fa-magnifying-glass{
+    color:gray;
+}
+
+.d1 button, .d2 button, .d3 button{
+    background-color: #0F7438;
+    border: none;
+}
+
+.c6{
+    font-size: 20px;
+}
+
+.zagre{
+    margin: 20px;
+}
+body{
+    background-color: cadetblue;
+} 
+
+.fa-user-tie, .fa-people-group{
+    margin-top: 50px;
+}   
+

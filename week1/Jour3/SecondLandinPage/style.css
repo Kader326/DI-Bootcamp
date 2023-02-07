@@ -1,0 +1,120 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #301a7a;
+    padding: 1px;
+    
+}
+
+header p{
+    margin-top: 19px;
+}
+
+header button{
+    margin: 6px;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 11px;
+}
+
+.zagre{
+    border: 8px solid whitesmoke;
+}
+
+h2{
+    text-align: center;
+    margin: 60px;
+}
+
+.d1{
+    
+    text-align: center;
+}
+
+.d2{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.d3{
+    text-align: center;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+.d4{
+    text-align: center;
+    margin-top: 15px ;
+    
+}
+
+.d5{
+   text-align: center;
+   margin-top: 20px;
+   font-size: 10px;
+   margin-right: 260px;
+}
+
+.d6  {
+    text-align: center;
+    margin-top: 30px;
+    
+       
+}
+
+button{
+    background-color: blue;
+    border:none;
+    height: 40px;
+    
+    color: white;
+}
+
+.d4 select,.d3 select {
+    width: 500px;
+    
+    
+}
+
+.c1, .c4{
+    margin-right: 75px;
+    font-size: 15px;
+}
+
+.c2, .c5{
+    margin-right: 47px;
+    font-size: 15px;
+}
+
+.c3, .c6{
+    margin-left:36px ;
+    font-size: 15px;
+}
+
+.d4 p{
+    margin-right: 20px;
+}
+
+.c10{
+    margin-right: 265px;
+    font-size: 13px;
+}
+
+.d4 select{
+    margin-top: 10px;
+}
+
+body{
+    background-image: url(https://images.pexels.com/photos/1755383/pexels-photo-1755383.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

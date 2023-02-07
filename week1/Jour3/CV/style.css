@@ -1,0 +1,47 @@
+.d1{
+    float:left;
+    width: 170px;
+    height: 740px;
+    
+    
+}
+
+.d2{
+    float:left;
+    width: 800px;
+    height: 740px;
+    
+}
+
+.d3, .d4, .d5, .d6{
+    float:left;
+    width: 765px;
+    height: 217px;
+    
+    margin: 3px;
+    
+}
+
+.d7{
+    float: left;
+    width: 300px;
+    height: 170px;
+    
+    margin: 3px;
+}
+
+.d8{
+    float: right;
+    width: 300px;
+    height: 170px;
+    
+    margin: 2px;
+}
+
+.clear{
+    clear:both;
+}
+
+h2{
+    text-align: center;
+}

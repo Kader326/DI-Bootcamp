@@ -1,0 +1,47 @@
+
+
+.d1{
+    float: left;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+.d2{
+    float: left;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    background-color: #A317D4;
+}
+
+
+button{
+    background-color: #A317D4;
+    width: 250px;
+    height: 30px;
+    border: none;
+    margin: 20px;
+}
+
+.em input ,.pass input{
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+    
+}
+
+.rem{
+  margin: 10px;
+}
+
+/*.d2 i{
+       margin: 160px;
+}*/
+
+.s{
+    font-size: 40px;
+    color: white;
+}

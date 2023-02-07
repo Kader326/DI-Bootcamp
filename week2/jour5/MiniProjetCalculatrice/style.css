@@ -1,0 +1,25 @@
+button {
+    width:100px;
+    height:70px;
+    margin-bottom: 2px;
+  }
+  .forme {
+    width:204px;
+    height:70px;
+  }
+  
+  .vert {
+      background-color: green;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .bleu {
+    background-color: blue;
+  }
+  
+  .rouge {
+    background-color: red;
+  }
